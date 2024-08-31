@@ -1,0 +1,28 @@
+{
+    "schemaVersion": 1,
+    "id": "windlaunch",
+    "version": "1.0.0",
+    "name": "Wind Launch Mod",
+    "description": "A mod that automatically launches wind charges.",
+    "authors": [
+      "Carloplayz"
+    ],
+    "contact": {
+      "homepage": "https://github.com/Carloplayz/WindLaunch",
+      "sources": "https://github.com/Carloplayz/WindLaunch"
+    },
+    "license": "MIT",
+    "icon": "assets/windlaunch/textures/icon.png",
+    "environment": "client",
+    "entrypoints": {
+      "client": [
+        "com.mod.windlaunch.WindLaunchMod"
+      ]
+    },
+    "depends": {
+      "fabricloader": ">=0.14.0",
+      "fabric": "*",
+      "minecraft": "1.21.x"
+    }
+  }
+  
