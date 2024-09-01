@@ -3,7 +3,7 @@ plugins {
 }
 
 group = 'com.mod'
-version = '1.0.0'
+version = '1.0.1'
 base {
     archivesName.set('windlaunch')  // Correct way to set the archives base name
 }
