@@ -1,5 +1,11 @@
 # WindLaunch Mod
 
+<p align="center">
+  <a href="https://modrinth.com/mod/windlaunch">
+    <img src="https://img.shields.io/badge/Available%20on-Modrinth-1bd96a?style=for-the-badge&scale=1.5" alt="Available on Modrinth" width="400">
+  </a>
+</p>
+
 WindLaunch is a Minecraft mod that enhances gameplay with wind charges, providing quick vertical mobility and customizable controls.
 
 ## Features
